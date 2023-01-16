@@ -5,18 +5,18 @@ name = "Minimal"
   # Primary
   primary = "#1b4332"
   
-  link = "#1b4332"
-  link_hover = "#1b4332"
+  link = "#DDBEAA"
+  link_hover = "#DDBEAA"
 
   # Menu
-  menu_primary = "#40916c"
+  menu_primary = "#469597"
   menu_text = "#34495e"
   menu_text_active = "#1b4332"
   menu_title = "#1b4332"
 
   # Home sections
-  home_section_odd = "#d8f3dc"
-  home_section_even = "#b7e4c7"
+  home_section_odd = "#E5E3E4"
+  home_section_even = "#BBC6C8"
 
 [dark]
   # Primary
