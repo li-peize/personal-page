@@ -49,7 +49,7 @@ first_name: Peize
 email: "peize.li'at'ed.ac.uk"
 ---
 
-Hello! This is Peize Li (李沛泽). I am a first-year PhD student in the School of Informatics at the University of Edinburgh. I am a member of [Mobile Autonomy, Perception and Sensing (MAPS) Lab](https://maps-lab.github.io/) led by [Dr. Chris Xiaoxuan Lu](https://christopherlu.github.io/). My PhD is jointly funded by the School of Informatics and A\*STAR Singapore. My research interest lies in robotic perception, with focus on tasks of odometry, localization and reconstruction.
+Hello! This is Peize Li (李沛泽). I am a first-year PhD student in the School of Informatics at the University of Edinburgh. I am a member of [Mobile Autonomy, Perception and Sensing (MAPS) Lab](https://maps-lab.github.io/) led by [Dr. Chris Xiaoxuan Lu](https://christopherlu.github.io/). My PhD is jointly funded by the School of Informatics and [A\*STAR Singapore](https://www.a-star.edu.sg/). My research interest lies in robotic perception, with focus on multi-sensor odometry, localization and reconstruction.
 
 Previously I obtained my [MSc Advanced Design Informatics](https://www.designinformatics.org/) from the [University of Edinburgh](https://www.ed.ac.uk/) while working as Research Intern of [Dr. Chris Xiaoxuan Lu](https://christopherlu.github.io/). I obtained my BSc degree in Physics at [Yuanpei College](https://yuanpei.pku.edu.cn/en/index.htm) of [Peking Univeristy](https://english.pku.edu.cn/) with research experience in quatum materials and high-energy physics. Between degrees, I worked as a Data Scientist at startup company [Huawei.AI](http://huaruixinzhi.com/) in Beijing and Research Intern at [Huawei UK R&D](https://www.huawei.com/uk/corporate-information/research-development) in Edinburgh.
 
