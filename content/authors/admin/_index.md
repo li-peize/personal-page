@@ -1,5 +1,5 @@
 ---
-title: Peize Li (李沛泽)
+title: Peize Li
 role: PhD Student
 bio: My research interests include robotic perception, edge computing, SLAM and 3D reconstruction.
 interests:
@@ -11,18 +11,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/chinnadevarapu
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/chinnadevarapu
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/scientistnobee
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/chinnadevarapu/
+    link: https://github.com/li-peize
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/chinnadevarapu/
   - display:
       header: false
     icon: Google Scholar
@@ -47,10 +47,10 @@ education:
 superuser: true
 last_name: Li
 highlight_name: true
-first_name: Ganga Chinna Rao
-email: "chinna.devarapu'at'mtu.ie"
+first_name: Peize
+email: "peize.li'at'ed.ac.uk"
 ---
 
-Peize Li
+Peize Li (李沛泽)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
