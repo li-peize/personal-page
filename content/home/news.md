@@ -1,4 +1,7 @@
 +++
+
+active: false
+
 date = 2017-12-01
 lastmod = 2017-12-01
 draft = false
@@ -15,4 +18,4 @@ caption = ""
 
 +++
 
-{{< readfromfile "/content/newslist.dat" 1000 >}} 
+{{< readfromfile "/content/newslist.dat" 1000 >}}
