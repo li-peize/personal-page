@@ -5,8 +5,8 @@ name = "Minimal"
   # Primary
   primary = "#1b4332"
   
-  link = "#DDBEAA"
-  link_hover = "#DDBEAA"
+  link = "#5BA199"
+  link_hover = "#5BA199"
 
   # Menu
   menu_primary = "#469597"
