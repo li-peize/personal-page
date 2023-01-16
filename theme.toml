@@ -39,8 +39,8 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "Chinna Devarapu"
-  homepage = "https://chinnadevarapu.com"
+  name = "Peize Li"
+  homepage = "https://lipeize.com"
 
 # If porting an existing theme
 [original]
