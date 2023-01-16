@@ -35,18 +35,15 @@ organizations:
     url: https://www.ipic.ie/people/chinna-devarapu/
 education:
   courses:
-    - course: PhD in Physics
-      institution: University of Exeter
-      year: 2014
-    - course: MTech in Applied Optics
-      institution: Indian Institute of Technology
-      year: 2010
-    - course: MSc in Physics
-      institution: Banaras Hindu University
-      year: 2008
-    - course: BSc in Science
-      institution: Andhra University
-      year: 2006
+    - course: PhD Robotics
+      institution: University of Edinburgh
+      year: 2026 (expected)
+    - course: MSc Advanced Design Informatics
+      institution: University of Edinburgh
+      year: 2022
+    - course: BSc Physics
+      institution: Peking University
+      year: 2019
 superuser: true
 last_name: Li
 highlight_name: true
