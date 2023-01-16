@@ -9,7 +9,7 @@ name = "Minimal"
   link_hover = "#40916c"
 
   # Menu
-  menu_primary = "#fff"
+  menu_primary = "#b7e4c7"
   menu_text = "#34495e"
   menu_text_active = "#40916c"
   menu_title = "#40916c"
