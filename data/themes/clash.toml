@@ -29,10 +29,10 @@ name = "nord" # Based on https://www.nordtheme.com/
 
   # Menu
   menu_primary = "#b67929"
-  menu_text = "#D8DEE9"
-  menu_text_active = "#88C0D0"
-  menu_title = "#81A1C1"
+  menu_text = "#a3acb1"
+  menu_text_active = "#3c5b74"
+  menu_title = "#3c5b74"
 
   # Home sections
-  home_section_odd = "00243f"
+  home_section_odd = "#00243f"
   home_section_even = "#264b77"
