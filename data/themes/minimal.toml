@@ -3,16 +3,16 @@ name = "Minimal"
 
 [light]
   # Primary
-  primary = "#2d6a4f"
+  primary = "#1b4332"
   
-  link = "#2d6a4f"
-  link_hover = "#2d6a4f"
+  link = "#1b4332"
+  link_hover = "#1b4332"
 
   # Menu
-  menu_primary = "#b7e4c7"
+  menu_primary = "#40916c"
   menu_text = "#34495e"
-  menu_text_active = "#2d6a4f"
-  menu_title = "#2d6a4f"
+  menu_text_active = "#1b4332"
+  menu_title = "#1b4332"
 
   # Home sections
   home_section_odd = "#d8f3dc"
