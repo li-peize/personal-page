@@ -29,9 +29,9 @@ name = "nord" # Based on https://www.nordtheme.com/
 
   # Menu
   menu_primary = "#b67929"
-  menu_text = "#a3acb1"
-  menu_text_active = "#3c5b74"
-  menu_title = "#3c5b74"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#00243f"
+  menu_title = "#00243f"
 
   # Home sections
   home_section_odd = "#00243f"
