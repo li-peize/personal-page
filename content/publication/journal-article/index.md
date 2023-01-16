@@ -1,76 +1,48 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+abstract: >-
+  Background: A centrifuge is an essential piece of equipment for several
+  biology and diagnostic applications such as pelleting cells and purifying
+  nucleic acids, etc. In recent years, there has been an increasing interest for
+  low-cost centrifuges that are alternatives to the commercially available
+  centrifuges. In this article, we present a low-cost, open-source, 3D printed
+  centrifuge (mobilefuge) that is portable, robust, stable, safe, easy to build
+  and operate.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+  Methods: The mobilefuge was designed such that it doesn't require soldering or programming skills and can be built without any specialised equipment yet practical enough for high throughput use. More importantly, the mobilefuge can be powered from widely available 5V USB ports, including mobile phones and associated power supplies. This allows the mobilefuge to be used even in off-grid and resource limited settings.
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+  Results: Performance of the mobilefuge is demonstrated by separating silica particles are from a suspension consisting of water and “glassmilk”. This separation process is one of the crucial steps in nucleic-acid amplification assays for reliable, low-cost diagnostic applications such as SARS-CoV2.
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+  Conclusions: We believe that beyond the nucleic-acid assays, the mobilefuge can have several applications as a microcentrifuge in the field of biomedical research and diagnostics.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors:
+  - Mohini Bhupathi
+  - admin
+author_notes:
+  - Equal contribution
+  - Equal contribution
+publication: "*Open Research Europe"
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: "Mobilefuge: A low-cost, portable, open source, 3D-printed centrifuge
+  that can be powered by a mobile phone"
+doi: https://doi.org/10.12688/openreseurope.14998.1
+featured: false
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-09-22T22:13:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
