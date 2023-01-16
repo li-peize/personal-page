@@ -15,8 +15,8 @@ name = "Minimal"
   menu_title = "#33b38d"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#d8f3dc"
+  home_section_even = "#b7e4c7"
 
 [dark]
   # Primary

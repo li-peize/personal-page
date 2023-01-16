@@ -1,7 +1,7 @@
 ---
 title: "OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Kaiwen Cai

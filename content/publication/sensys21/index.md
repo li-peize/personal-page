@@ -1,7 +1,7 @@
 ---
 title: "Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Chris Xiaoxuan Lu
