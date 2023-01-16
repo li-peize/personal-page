@@ -35,5 +35,5 @@ first_name: Peize
 email: "peize.li@ed.ac.uk"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peize Li is a PhD student at the School of Informatics in the University of Edinburgh.
 {style="text-align: justify;"}
