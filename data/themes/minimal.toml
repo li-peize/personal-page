@@ -16,7 +16,7 @@ name = "Minimal"
 
   # Home sections
   home_section_odd = "#E5E3E4"
-  home_section_even = "#DDBEAA"
+  home_section_even = "#BBC6C8"
 
 [dark]
   # Primary
