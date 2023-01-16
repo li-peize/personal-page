@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: false
 
 # This file represents a page section.
 headless: true
@@ -23,27 +24,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher Fellow
-    company: Munster Technological University 
-    company_url: 'https://www.cappa.ie/chinna-devarapu/'
+    company: Munster Technological University
+    company_url: "https://www.cappa.ie/chinna-devarapu/"
     company_logo: MTUv4
     location: Cork, Ireland.
-    date_start: '2016-08-08'
-    date_end: ''
+    date_start: "2016-08-08"
+    date_end: ""
     description: |2-
         
         * Commercilisation of research outcomes
         * Manage design, simulation, fabrication and characterisation of photonic devices
         * Laise with collaborators in academia and industry
         * Train new members of the team on cleanroom fabrication technologies
-        * Communicate the research results with experts and non-experts 
+        * Communicate the research results with experts and non-experts
 
   - title: Marie Skłodowska-Curie Research Fellow (Career-FIT)
-    company: Munster Technological University 
-    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
+    company: Munster Technological University
+    company_url: "https://www.ipic.ie/people/chinna-devarapu/"
     company_logo: MTUv4
     location: Cork, Ireland.
-    date_start: '2018-05-01'
-    date_end: '2021-04-30'
+    date_start: "2018-05-01"
+    date_end: "2021-04-30"
     description: |2-
         
         * Managed the MSCA project independently as a principle investigator
@@ -51,13 +52,13 @@ experience:
         * Interned at two industrial premises (Vario-Optics Ag and Pilot Photonics)
         * Developed intellectual property (Patents and IDFs) and licensed to industrial partners
 
-  - title: Research 
-    company: University of St Andrews 
-    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
+  - title: Research
+    company: University of St Andrews
+    company_url: "https://www.ipic.ie/people/chinna-devarapu/"
     company_logo: StAndrewsc1
     location: St Andrews, United Kingdom.
-    date_start: '2014-10-01'
-    date_end: '2016-08-08'
+    date_start: "2014-10-01"
+    date_end: "2016-08-08"
     description: |2-
         
         * Managed Resonant Spectroscopy Lab
@@ -65,27 +66,26 @@ experience:
         * Trained several members of the team on Electron Beam Lithography, Etching, SEM, etc
         * Taught labaratory courses in undergraduate physics labs
 
-
   - title: PhD Fellow
     company: University of Exeter
-    company_url: ''
+    company_url: ""
     company_logo: Exeterv6
     location: Exeter, United Kingdom.
-    date_start: '2014-09-01'
-    date_end: '2010-10-04'
+    date_start: "2014-09-01"
+    date_end: "2010-10-04"
     description: |2-
         
         * Investigated how to make perfect absorbing materials out of highly reflecting materials
         * Studied semiconductor photonic crystals for their super refracting properties
-        * Developed theories (group velocity & energy velocity, etc) for lossy photonic crystals 
+        * Developed theories (group velocity & energy velocity, etc) for lossy photonic crystals
 
   - title: Masters Thesis Student
     company: Technical University of Berlin
-    company_url: ''
+    company_url: ""
     company_logo: TUBerlin
     location: TU Berlin, Germany.
-    date_start: '2010-05-01'
-    date_end: '2009-08-01'
+    date_start: "2010-05-01"
+    date_end: "2009-08-01"
     description: |2-
         Responsibilities include:
         
@@ -93,7 +93,6 @@ experience:
         * Waveguides were fabricated by direct beam photo-lithographic technique
         * The waveguides were characterized using various interferometric methods
 
-      
 design:
-  columns: '2'
+  columns: "2"
 ---

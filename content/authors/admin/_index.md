@@ -1,12 +1,12 @@
 ---
-title: Peize Li ()
+title: Peize Li (李沛泽)
 role: PhD Student
-bio: My research interests include silicon photonics, photonic crystals and
-  biomedical devices.
+bio: My research interests include robotic perception, edge computing, SLAM and 3D reconstruction.
 interests:
-  - Nanophotonics
-  - Biomedical devices
-  - Photonics Integrated Circuits
+  - Robotic perception
+  - Edge computing and cyberphysical systems
+  - Simultaneous localization and mapping
+  - 3D reconstruction
 social:
   - icon: envelope
     icon_pack: fas

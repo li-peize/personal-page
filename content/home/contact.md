@@ -1,6 +1,7 @@
 ---
 # An instance of the Contact widget.
 widget: contact
+active: false
 
 # This file represents a page section.
 headless: true
@@ -34,16 +35,15 @@ content:
     postcode: T12P928
     country: Ireland
     country_code: IE
-  
-  directions: Find me in Create Building in the Bisopstown campus 
+
+  directions: Find me in Create Building in the Bisopstown campus
 
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/chinnadevarapu'
-
+      link: "https://twitter.com/chinnadevarapu"
 
 design:
-  columns: '2'
+  columns: "2"
 ---

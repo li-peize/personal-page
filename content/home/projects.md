@@ -2,6 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
+active: false
 
 # This file represents a page section.
 headless: true
@@ -10,7 +11,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
@@ -26,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
+      tag: "*"
     - name: Biomedical
       tag: Biomedical
     - name: Nanophotonics
@@ -34,7 +35,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: "1"
 
   # Toggle between the various page layout types.
   #   1 = List
