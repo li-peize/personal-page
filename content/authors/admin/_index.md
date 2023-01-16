@@ -1,5 +1,5 @@
 ---
-avatar_filename: 4d9d4d2a-8192-4bce-bef4-be57cc24d356.jpeg
+avatar_filename: me.jpeg
 bio: My research interests include robotic perception, SLAM, and Graph Neural
   Networks.
 interests:
@@ -27,12 +27,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Li
 role: PhD Student
 highlight_name: true
 title: Peize Li (李沛泽)
-first_name: Alice
-email: ""
+first_name: Peize
+email: "peize.li@ed.ac.uk"
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
