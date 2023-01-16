@@ -1,23 +1,18 @@
 ---
-title: "OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum"
+title: "Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones"
 publication_types:
   - "2"
 authors:
   - admin
-  - Kaiwen Cai
-  - Muhamad Risqi U. Saputra
-  - Zhuangzhuang Dai
   - Chris Xiaoxuan Lu
-  - Andrew Markham
-  - Niki Trigoni
-doi: 10.1109/ICTON.2017.8024926
-publication: 2022 IEEE RSJ International Conference on Intelligent Robots and Systems (IROS)
-abstract:
+doi: 10.1145/3485730.3494116
+publication: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+abstract: Motion tracklets are the basic fragments of the track followed by a moving object and constitute various everyday motion behavior. An accurate estimation of motion tracklets in 3-D space can enable a wide range of applications, ranging from human computer interaction to medical rehabilitation. This paper presents a novel dataset for accurate 6-DoF motion tracklet estimation with the inertial sensors on commodity smartphones. The dataset consists of around 100 minutes of handheld motion with 3 predominant types of motion track-lets and accurate ground truth using the Vicon systems. With the presented dataset, we further benchmarked the trajectory estimation using a lightweight neural odometry model, showcasing how the dataset can be used while providing quantitative performance for downstream tasks. Our dataset, toolkit and source code available at https://github.com/MAPS-Lab/smartphone-tracking-dataset.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: ""
   preview_only: false
-date: 2022-09-14
+date: 2021-11-01
 ---
